@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomRatBar" parent="Theme.AppCompat">
+      <item name="colorControlNormal">#DDA0DD</item>
+      <item name="colorControlActivated">#FF00FF</item>
+    </style>
+</resources>
